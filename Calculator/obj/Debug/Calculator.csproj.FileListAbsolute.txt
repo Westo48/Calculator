@@ -1,0 +1,15 @@
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\westo\Documents\My Documents\Software Development\Calculator\Calculator\obj\Debug\Calculator.pdb
